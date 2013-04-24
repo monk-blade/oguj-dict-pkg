@@ -1,9 +1,10 @@
 Package: oguj-dict-pkg
 Version: 1.1
 Section: base
+Installed-Size: 6963
 Priority: optional
 Architecture: all
-Depends: goldendict
+Depends: stardict
 Maintainer: Arpan Chavda <codejarcc@gmail.com>
 Description: English to Gujarati Package
  This is a English to Gujarati package for Goldendict dictionary.
