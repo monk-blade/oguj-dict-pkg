@@ -15,3 +15,5 @@ Installation
 - Uncompress downloaded file at /Internal Memory/dictdata/(In your android phone)
 - Search in colordict app(Offline)
 - All android version works. If you find gujarati font rendering problem then it is your phone problem.
+
+####Database credit goes to [GujaratiLexicon.com](http://www.gujaratilexicon.com)
