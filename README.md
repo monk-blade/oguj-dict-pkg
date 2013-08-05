@@ -3,7 +3,7 @@ Installation
 
 ##Linux
 
-- Download debian file from here . [Link](https://github.com/codejar-lab/oguj-dict-pkg/blob/master/oguj-dict-pkg1.1_all.deb)
+- Download debian file from here . [Link](https://github.com/codejar-lab/oguj-dict-pkg/blob/master/oguj-dict-pkg_latest.deb)
 - Open it via Gdebi Package installer or Ubuntu software Center or via command line.
 - Open Stardict and search English words [Offline] and it will work.
 
