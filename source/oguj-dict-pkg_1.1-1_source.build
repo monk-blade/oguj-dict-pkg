@@ -1,0 +1,26 @@
+ dpkg-buildpackage -rfakeroot -d -us -uc -S
+dpkg-buildpackage: source package oguj-dict-pkg
+dpkg-buildpackage: source version 1.1-1
+dpkg-buildpackage: source changed by Arpan Chavda <arpanchavdaeng@gmail.com>
+ dpkg-source --before-build oguj-dict-pkg-1.1
+ fakeroot debian/rules clean
+debian/rules: line 1: override_dh_auto_build:: command not found
+debian/rules: line 3: override_dh_auto_install:: command not found
+debian/rules: line 6: fg: no job control
+   dh_testdir
+   dh_auto_clean
+   dh_clean
+ dpkg-source -b oguj-dict-pkg-1.1
+dpkg-source: info: using source format `3.0 (quilt)'
+dpkg-source: info: building oguj-dict-pkg using existing ./oguj-dict-pkg_1.1.orig.tar.gz
+dpkg-source: warning: ignoring deletion of file guj_deduped_orig.ifo
+dpkg-source: warning: ignoring deletion of file guj_deduped_orig.dict.dz
+dpkg-source: warning: ignoring deletion of file guj_deduped_orig.idx
+dpkg-source: error: cannot represent change to oguj-dict-pkg-1.1.tar.gz: binary file contents changed
+dpkg-source: error: add oguj-dict-pkg-1.1.tar.gz in debian/source/include-binaries if you want to store the modified binary in the debian tarball
+dpkg-source: error: cannot represent change to dict/guj_deduped_orig.dict.dz: binary file contents changed
+dpkg-source: error: add dict/guj_deduped_orig.dict.dz in debian/source/include-binaries if you want to store the modified binary in the debian tarball
+dpkg-source: error: cannot represent change to dict/guj_deduped_orig.idx: binary file contents changed
+dpkg-source: error: add dict/guj_deduped_orig.idx in debian/source/include-binaries if you want to store the modified binary in the debian tarball
+dpkg-source: error: unrepresentable changes to source
+dpkg-buildpackage: error: dpkg-source -b oguj-dict-pkg-1.1 gave error exit status 2

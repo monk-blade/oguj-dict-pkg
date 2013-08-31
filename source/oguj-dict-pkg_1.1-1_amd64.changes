@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Sat, 31 Aug 2013 18:58:39 +0530
+Source: oguj-dict-pkg
+Binary: oguj-dict-pkg
+Architecture: source amd64
+Version: 1.1-1
+Distribution: stable
+Urgency: low
+Maintainer: Arpan Chavda <arpanchavdaeng@gmail.com>
+Changed-By: Arpan Chavda <arpanchavdaeng@gmail.com>
+Description: 
+ oguj-dict-pkg - English to Gujarati Package for stardict
+Changes: 
+ oguj-dict-pkg (1.1-1) stable; urgency=low
+ .
+   * Initial release
+Checksums-Sha1: 
+ 46498a02fb32a2fbe90f13c7d6595570fa3f2c10 1535 oguj-dict-pkg_1.1-1.dsc
+ f0d0d2008ee4984b8150c468e72edc3fcf94e5d3 2287589 oguj-dict-pkg_1.1.orig.tar.gz
+ 219e7b4a085bf470eda754b139c9939331dd25e5 1935 oguj-dict-pkg_1.1-1.debian.tar.gz
+ 226e5d091a30882a2c5d2240dac8a940485c27e9 2289978 oguj-dict-pkg_1.1-1_amd64.deb
+Checksums-Sha256: 
+ 52de0894df3ee7fd0489ed6c7bc9a6d6b0f58146d7cdb78122e4565c2314662f 1535 oguj-dict-pkg_1.1-1.dsc
+ b0dd309df515529b81cd5cf3be1fb8a01aea52d32dbe076d4d48b62622ee036f 2287589 oguj-dict-pkg_1.1.orig.tar.gz
+ 0a8f01743c1ab0398489ffc77db0f3954b3fae9df7bca4bdda4130a9ea6b2092 1935 oguj-dict-pkg_1.1-1.debian.tar.gz
+ 57c9b7c68c6a12af740dc66fdaf58fa45bf07a9d7ac9113e2c292e032ef72aad 2289978 oguj-dict-pkg_1.1-1_amd64.deb
+Files: 
+ 0834cd458a23298dee250470e0cce9ca 1535 base extra oguj-dict-pkg_1.1-1.dsc
+ 2c9fff3be17686890416db0b8c90c7db 2287589 base extra oguj-dict-pkg_1.1.orig.tar.gz
+ 1094a9dda803f4a97aa02f79c77e5a1d 1935 base extra oguj-dict-pkg_1.1-1.debian.tar.gz
+ 5a26ab7db2f68dfc2836d23a83d720ae 2289978 base extra oguj-dict-pkg_1.1-1_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+iQEcBAEBAgAGBQJSIgvOAAoJEEaq6rPtJv3FKlsH/itRPb2p01HvL0tzIivXA/nc
+X9Yu4Hd/17WY1wNpbFgwYnRlA8cwTvjKsbZtWeySYLomWQdLKGPgdNsmvCuElwZr
+yfXjhI/5h6jxNULfxgiwtfAYXlPPVbJJkh8xpbWi9ddRwL698lT+jNDWoGM6GE4q
+tKUgA2pbY67wjdXeXLQFpHXuG3Ym0vvxcHw791RsBZ4lq6McIA7wURykR+SGe6e7
+RewcUtrMO4AVdPlzmuhyz8QWOyvKskQsx/vd5VBUZiynmVb6VDrrN4pl02/bhnpQ
+I++4GzS9eHdJ//DnfgpsFSNTARjjhHBuGr5HWh9j8h0qGSJJbdSoRX68Yzc+vXM=
+=DhKl
+-----END PGP SIGNATURE-----
